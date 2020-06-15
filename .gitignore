@@ -1,0 +1,6 @@
+model/*
+.vscode
+.ipynb_checkpoints
+__pycache__
+deep_sort/deep/checkpoint/*
+age_gender/model/*
